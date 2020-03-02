@@ -13,7 +13,7 @@ Page Contact:
 
 This year the HOT Summit will be held in Cape Town, South Africa at the University of Cape Town on Jul 1 - 2, 2020. HOT Summit will be held immediately before [State of the Map 2020](https://2020.stateofthemap.org/).
 
-We're working with the SOTM planning committee to coordinate logistics and program details to create an incredible time in Cape Town. Stay tuned to our 
+We're working with the SOTM planning committee to coordinate logistics and program details to create an incredible time in Cape Town.
 
 <h2>Sign up for our newsletter for Summit updates & announcements!</h2>
 {% include newsletter-form.html %}
