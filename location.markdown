@@ -9,8 +9,9 @@ Page Contact:
   Contact Email: summit@hotosm.org
 ---
 
-This year the HOT Summit will be held in Heidelberg, Germany at the University of Heidelberg on Sept 19 - 20, 2019. HOT Summit will be held immediately before [State of the Map 2019](https://2019.stateofthemap.org/). We're working with the SOTM planning committee to coordinate logistics and program details to create an incredible time in Heidelberg. Thank you to GIScience at University of Heidelberg for supporting. 
+This year the HOT Summit will be held in Cape Town, South Africa at the University of Cape Town on Jul 1 - 2, 2020. HOT Summit will be held immediately before [State of the Map 2020](https://2020.stateofthemap.org/). We're working with the SOTM planning committee to coordinate logistics and program details to create an incredible time in Cape Town.
 
+<!--
 ### Conference Venue 
 
 All HOT Summit sessions will be held on the Neuenheimer Feld campus within the [Chemistry lecture hall building](http://www.openstreetmap.org/way/25298676). HOT Summit will use the West and East Lecture rooms along with a smaller lecture room for all sessions. Detailed signs and information will be provided to all attendees.  
@@ -23,3 +24,4 @@ See the [State of the Map venue page](https://2019.stateofthemap.org/venue/) for
 ### Accommodation
 
 Jump to [State of the Map website accommodation](https://2019.stateofthemap.org/accommodation/) information to see the selection of hotels that have been pre-booked with special SOTM rates. 
+-->

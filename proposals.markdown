@@ -13,7 +13,7 @@ Page Contact:
 
 ## Call for Proposals is Now Open
 
-The Fifth Annual HOT Summit 2019 will be held in Heidelberg, Germany; September 19-20th at the University of Heidelberg the day before State of the Map-International. This year's theme is: the **Next Phase of Mapping, new ideas in OSM** 
+The Fifth Annual HOT Summit 2020 will be held in Cape Town, South Africa; Jul 1 - 2 at the University of Cape Town the day before State of the Map-International. This year's theme is: <!--the **Next Phase of Mapping, new ideas in OSM** -->
 
 The Summit brings together people from around the world working to make open geographic data available to improve the places they live and work through OpenStreetMap. The two-day gathering will feature interactive sessions and talks from NGOs, international organizations, governments, academia, the private sector, and OpenStreetMap community members. The Summit focuses on how OpenStreetMap is being used to reduce disaster risk and contribute to the [17 Sustainable Development Goals](https://sustainabledevelopment.un.org/?menu=1300) that emphasize participation from all sectors of society to meet ambitious targets around the world’s most critical challenges by 2030.
 
@@ -26,16 +26,16 @@ We are looking for unique presentation proposals that engage the audience and cr
   * Debate, interactive discussion or other non-panel format
 * **5-Minute failures** (Lightning-talk style presentations of important learning moments in your work)
 
-Please review important dates and proposal ideas below then submit your proposal by the **DEADLINE  APRIL  30, 2019.**
+Please review important dates and proposal ideas below then submit your proposal by the <!--**DEADLINE  APRIL  30, 2019.** -->
 
 If you have any question please email us at summit@hotosm.org
 
 ## Important Dates
 
-* Call for participation announcement: **April 1, 2019**
-* Deadline to submit your proposal: **May 5, 2019**
-* Notification of accepted proposals: **May 15, 2019**
-* Summit dates: **September 19-20th, 2019**
+* Call for participation announcement: <!--**April 1, 2019**-->
+* Deadline to submit your proposal: <!--**May 5, 2019**-->
+* Notification of accepted proposals: <!--**May 15, 2019**-->
+* Summit dates: <!--**September 19-20th, 2019**-->
 
 ## Contributions Types and Ideas
 
