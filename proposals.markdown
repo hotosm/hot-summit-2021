@@ -9,7 +9,7 @@ Page Contact:
   Link: https://docs.google.com/forms/d/e/1FAIpQLSeoVjlnyV1rmjIpABM-c0GSGx40SNqagQoEf9hU47iFVQjjRw/viewform
 ---
 
-![](/images/call-for-proposals.jpg)
+![](/images/summit-2019-group-photo-banner.jpg)
 
 ## Call for Proposals is Now Open
 
