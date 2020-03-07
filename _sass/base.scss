@@ -20,10 +20,12 @@ body {
     position: relative;
     padding-top: 95px;
   }
+  max-width: 1280px;
+  margin: 0 auto;
 }
 
 .page-content {
-  position: relative;
+    position: relative;
 }
 
 h1, h2 {
