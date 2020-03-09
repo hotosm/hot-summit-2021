@@ -41,22 +41,22 @@ jobs:
           name: Install AWS CLI
           command: pip install awscli --upgrade --user
       - run:
-        name: Configure AWS Access Key ID
-        command: |
-          aws configure set aws_access_key_id \
-          $AWS_ACCESS_KEY_ID \
-          --profile default
+          name: Configure AWS Access Key ID
+          command: |
+            aws configure set aws_access_key_id \
+            $AWS_ACCESS_KEY_ID \
+            --profile default
       - run:
-        name: Configure AWS Secret Access Key
-        command: |
-          aws configure set aws_secret_access_key \
-          $AWS_SECRET_ACCESS_KEY \
-          --profile default
+          name: Configure AWS Secret Access Key
+          command: |
+            aws configure set aws_secret_access_key \
+            $AWS_SECRET_ACCESS_KEY \
+            --profile default
       - run:
-        name: Configure AWS default region
-        command: |
-          aws configure set region $AWS_REGION \
-          --profile default
+          name: Configure AWS default region
+          command: |
+            aws configure set region $AWS_REGION \
+            --profile default
       - run:
           name: Upload to s3
           command: ~/.local/bin/aws s3 sync ./_site s3://$S3_BUCKET_NAME/ --delete --acl public-read
