@@ -35,7 +35,7 @@ jobs:
       - persist_to_workspace:
           root: ./
           paths:
-            - _site<command>
+            - ./_site
   deploy:
     <<: *defaults
     docker:
@@ -55,13 +55,13 @@ jobs:
           aws configure set aws_access_key_id \
           $AWS_ACCESS_KEY_ID \
           --profile default
-    - run:
+      - run:
         name: Configure AWS Secret Access Key
         command: |
           aws configure set aws_secret_access_key \
           $AWS_SECRET_ACCESS_KEY \
           --profile default
-    - run:
+      - run:
         name: Configure AWS default region
         command: |
           aws configure set region $AWS_REGION \
