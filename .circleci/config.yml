@@ -24,14 +24,6 @@ jobs:
       - run:
           name: Jekyll build
           command: bundle exec jekyll build
-      - run:
-          name: HTMLProofer tests
-          command: |
-            bundle exec htmlproofer ./_site \
-              --allow-hash-href \
-              --check-favicon  \
-              --check-html \
-              --disable-external
       - persist_to_workspace:
           root: ./
           paths:
@@ -48,7 +40,6 @@ jobs:
       - run:
           name: Install AWS CLI
           command: pip install awscli --upgrade --user
-
       - run:
         name: Configure AWS Access Key ID
         command: |
