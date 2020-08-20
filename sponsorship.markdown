@@ -4,15 +4,16 @@ layout: page
 permalink: /sponsorship/
 Intro Text: 
 Page Contact:
-  Label: Download sponsorship prospectus
+  Label: Contact us for more info
   Text: Interested in Sponsoring?
+  Link: mailto:rachel.vannice@hotosm.org
 ---
 
 Sponsorship of the HOT Summit demonstrates your organization’s commitment to reducing the impact of crises and contributing to the Sustainable Development Goals through open map data.
 
 Sponsorship has a direct impact on the ability of mappers from least developed countries to attend, by enabling HOT to provide travel and admission scholarships.
 
-<!-- For more details about becoming a sponsor, download the <a href="/downloads/Summit2019-Corporate-Sponsor-Prospectus.pdf">sponsorship prospectus</a>. --> Email summit@hotosm.org if interested in sponsoring. 
+We are open to creative options to support the HOT Summit virtually in 2020 or for next year's in-person event. <a href="mailto:rachel.vannice@hotosm.org">Please contact us</a> if interested. 
 
 ## Want to donate to HOT directly?
 
