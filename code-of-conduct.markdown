@@ -30,6 +30,5 @@ To ensure that the HOT Summit and related events are welcoming and safe experien
 > 
 > We require participants to follow this code of conduct at all conference sessions and all conference-related events.
 > 
-> This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers. We also adapted some of the text from the Conference Code of Conduct.
-    
+
 This anti-harassment policy is based on [the example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment), created by [the Ada Initiative](https://adainitiative.org/) and other volunteers. We also adapted some of the text from the [Conference Code of Conduct](http://confcodeofconduct.com/).
