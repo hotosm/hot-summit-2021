@@ -1,8 +1,8 @@
 ---
 title: Chad Blevins
-organization: YouthMappers
+organization: Critigen-Trashsites 
 country: USA
 image: https://summit2017.hotosm.org/img/speaker-imgs/chadblevins.jpg
-talk: "YouthMappers"
+talk: "Mapping the Trash Value Chain"
 permalink: /speakers/#chad-blevins
 ---

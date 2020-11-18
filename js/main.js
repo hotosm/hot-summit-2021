@@ -90,7 +90,7 @@ const collapse = (selector, cmd) => {
 
 var selectInput = document.querySelectorAll('.select-item'),
     panels = document.querySelectorAll('.program-content'),
-    currentSelect = 'sept-19',
+    currentSelect = 'block1',
     i;
 
 const scrollToTop = () => {

@@ -71,16 +71,14 @@
 }
 
 .select-area {
-  width: 500px;
+  width: 1000px;
   margin-bottom: 24px;
   height: 88px;
   h2 {
     display: inline;
     margin-bottom: 32px;
-    &:first-of-type {
-      margin-top: 0;
-      margin-right: 49px;
-    }
+    margin-top: 0;
+    margin-right: 29px;
     width: 100px;
     font-family: "Barlow Condensed", sans-serif;
     font-size: 32px;

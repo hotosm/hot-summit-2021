@@ -16,13 +16,14 @@ layout: default
   <div class="program-body">    
 
     <div class="select-area">
-        <h2 class="select-item sept-19" id="sept-19">THURS. SEPT 19</h2>
-        <h2 class="select-item sept-20" id="sept-20">FRI. SEPT 20</h2>
+        <h2 class="select-item block1" id="block1">ASIA/OCEANIA BLOCK</h2> 
+        <h2 class="select-item block2" id="block2">AFRICA/EUROPE BLOCK</h2>
+        <h2 class="select-item block3" id="block3">AMERICAS BLOCK</h2>
     </div>
 
     <div class="select-dummy"></div>
 
-    <section class="program-content article sept-19">
+    <section class="program-content article block1">
       
       {% for session in page.Day1 %}
       <div class="program-table">
@@ -103,9 +104,91 @@ layout: default
       {% endfor %}      
     </section>
 
-    <section class="program-content article sept-20">
+    <section class="program-content article block2">
       
       {% for session in page.Day2 %}
+      <div class="program-table">
+          <div>
+            <p class="time">{{ session.time }}</p>
+          </div>
+          <div>
+          {% for s in session.session %}
+          {% if s.title %}
+          <div class="program-details">
+            {% if s.subsessions %}
+              <p class="location">{{ s.location }}</p>
+              <p class="title">{{ s.title }}</p>
+              <ul>
+              {% for i in s.subsessions %}
+                <li>
+                  <p class="title">{{ i.title }}</p>
+                  {% if i.abstract %}
+                  <details>
+                    <summary>Read abstract</summary>
+                    <p>{{ i.abstract }}</p>
+                  </details>
+                  {% endif %}
+                  {% if i.presenter %}<p class="presenter">{% for p in i.presenter %}{% for person in p.people %}
+                  <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %}
+                  {% endfor %}
+                  {% if p.organization %}
+                    {% if p.people %}
+                      {{ p.organization | prepend: "– " }}
+                    {% else %}
+                      {{ p.organization }}
+                    {% endif %}
+                  {% endif %}
+                  {% if forloop.length > 1 and forloop.last == false %} {{ "&" | escape }} {% endif %}
+                  {% endfor %}</p>{% endif %}
+                </li>
+              {% endfor %}
+              </ul>
+            {% else %}
+              {% if s.location %}
+              <p class="location">{{ s.location }}</p>
+              {% endif %}
+              <p class="title">{{ s.title }}</p>
+              {% if s.abstract %}
+              <details>
+                <summary>Read abstract</summary>
+                <p>{{ s.abstract }}</p>
+              </details>
+              {% endif %}
+              {% if s.presenter %}
+                <p class="presenter">
+                  {% for p in s.presenter %}{% for person in p.people %}
+                  <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %}
+                  {% endfor %}
+                  {% if p.organization %}
+                    {% if p.people %}
+                      {{ p.organization | prepend: "– " }}
+                    {% else %}
+                      {{ p.organization }}
+                    {% endif %}
+                  {% endif %}
+                  {% if forloop.length > 1 and forloop.last == false %} {{ "&" | escape }} {% endif %}
+                  {% endfor %}
+                </p>
+              {% endif %}
+              {% if s.link %}
+              <p class="presenter location-link">
+                See for <a href="{{s.map}}">map location</a> or read details on the <a href="{{s.link}}">website</a>
+              </p>
+              {% endif %}
+              {% endif %}
+          </div>
+          {% endif %}
+          {% endfor %}
+          </div>
+      </div>
+      <div class="hr-h"></div>
+      {% endfor %}
+
+    </section>
+
+    <section class="program-content article block3">
+      
+      {% for session in page.Day3 %}
       <div class="program-table">
           <div>
             <p class="time">{{ session.time }}</p>
