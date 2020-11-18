@@ -2,20 +2,20 @@
 title: Code of Conduct
 layout: page
 permalink: /code-of-conduct/
-Intro Text: The 2020 HOT Summit is a conference designed for everyone using and interested in OpenStreetMap and humanitarian mapping.
+Intro Text: The Humanitarian OpenStreetMap Summit 2020 is a conference designed for everyone using and interested in OpenStreetMap and humanitarian mapping.
 Page Contact:
   Label: Contact Summit Working Group
   Text: Have a question about the code of conduct?
   Contact Email: summit@hotosm.org
 ---
 
-Our goal is to bring together the diverse users that make up OpenStreetMap and the HOT worldwide community and to make everyone feel welcome to participate, speak up, ask questions, and engage in the event, sessions, and conversations. The growing diversity of the OpenStreetMap community includes hobbyists and professionals, people of different ethnic backgrounds and gender identities, rich and poor, etc. This is the OpenStreetMap community and are all welcome and encouraged to attend the HOT Summit.
+Our goal is to bring together the diverse users that make up the humanitarian OpenStreetMap community and to make everyone feel welcome to participate, speak up, ask questions, and engage in the event, sessions, and conversations. The growing diversity of the OpenStreetMap community includes hobbyists and professionals, people of different ethnic backgrounds and gender identities, rich and poor, etc. This is the OpenStreetMap community and are all welcome and encouraged to attend the Summit.
 
-To achieve this we require that everyone participating in the HOT Summit and related events treat everyone with respect and kindness and acknowledge that people from different backgrounds have different understandings of what is offensive, derogatory, and unwelcoming, and commit to bridging this through positive communication.
+To achieve this we require that everyone participating in the Summit and related events treat everyone with respect and kindness and acknowledge that people from different backgrounds have different understandings of what is offensive, derogatory, and unwelcoming, and commit to bridging this through positive communication.
 
-To ensure that the HOT Summit and related events are welcoming and safe experiences for everyone who attends, including in this virtual environment, we have adopted the following code of conduct:
+To ensure that the Summit and related events are welcoming and safe experiences for everyone who attends, including in this virtual environment, we have adopted the following code of conduct:
         
-> The 2020 HOT Summit is dedicated to providing a harassment-free virtual conference experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or background. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference session. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
+> The 2020 Summit is dedicated to providing a harassment-free virtual conference experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or background. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference session. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
 
 
 ### Our anti-harassment policy is as follows: 

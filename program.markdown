@@ -464,5 +464,5 @@ Day3:
 
 ---
 
-On 4 December 2020 Humanitarian OpenStreetMap Team will convene for a global virtual community meeting. The entire humanitarian mapping/OpenStreetMap community will come together to showcase projects, discuss and share ideas, and learn how mapping projects can have impact on the lives beyond the people mapping and create better disaster and development outcomes. 
+On 4 December 2020, the humanitarian mapping community will convene for a global virtual meeting. We hope much of the humanitarian mapping/OpenStreetMap community will come together to showcase projects, discuss and share ideas, and learn how mapping projects can have impact on the lives beyond the people mapping and create better disaster and development outcomes.
 
