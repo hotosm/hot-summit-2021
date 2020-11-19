@@ -48,7 +48,8 @@ layout: default
                   </details>
                   {% endif %}
                   {% if i.presenter %}<p class="presenter">{% for p in i.presenter %}{% for person in p.people %}
-                  <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %}
+                  <!-- <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %} -->
+                  {{ person }}{% unless forloop.last %} & {% endunless %}
                   {% endfor %}
                   {% if p.organization %}
                     {% if p.people %}
@@ -76,7 +77,8 @@ layout: default
               {% if s.presenter %}
                 <p class="presenter">
                   {% for p in s.presenter %}{% for person in p.people %}
-                  <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %}
+                  <!-- <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %} -->
+                  {{ person }}{% unless forloop.last %} & {% endunless %}
                   {% endfor %}
                   {% if p.organization %}
                     {% if p.people %}
@@ -129,7 +131,8 @@ layout: default
                   </details>
                   {% endif %}
                   {% if i.presenter %}<p class="presenter">{% for p in i.presenter %}{% for person in p.people %}
-                  <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %}
+                 <!--  <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %} -->
+                  {{ person }}{% unless forloop.last %} & {% endunless %}
                   {% endfor %}
                   {% if p.organization %}
                     {% if p.people %}
@@ -157,7 +160,8 @@ layout: default
               {% if s.presenter %}
                 <p class="presenter">
                   {% for p in s.presenter %}{% for person in p.people %}
-                  <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %}
+                  <!-- <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %} -->
+                  {{ person }}{% unless forloop.last %} & {% endunless %}
                   {% endfor %}
                   {% if p.organization %}
                     {% if p.people %}
@@ -211,7 +215,8 @@ layout: default
                   </details>
                   {% endif %}
                   {% if i.presenter %}<p class="presenter">{% for p in i.presenter %}{% for person in p.people %}
-                  <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %}
+                  <!-- <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %} -->
+                  {{ person }}{% unless forloop.last %} & {% endunless %}
                   {% endfor %}
                   {% if p.organization %}
                     {% if p.people %}
@@ -239,7 +244,8 @@ layout: default
               {% if s.presenter %}
                 <p class="presenter">
                   {% for p in s.presenter %}{% for person in p.people %}
-                  <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %}
+                  <!-- <a href="{% for speaker in site.speakers %}{% if speaker.title == person %}{{ speaker.url }}{% endif %}{% endfor %}" >{{ person }}</a>{% unless forloop.last %} & {% endunless %} -->
+                  {{ person }}{% unless forloop.last %} & {% endunless %}
                   {% endfor %}
                   {% if p.organization %}
                     {% if p.people %}
