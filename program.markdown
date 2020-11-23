@@ -13,8 +13,8 @@ Day1:
     session:
       - location: Opening Remarks/Keynote
         title: "TBC"
-        duration: "00:20"
-  - time: 02:20 UTC
+        duration: "00:30"
+  - time: 02:30 UTC
     session:
       - location: Dialogue
         title: "LGBT Communities and the Unmapped Philippines"
@@ -23,7 +23,7 @@ Day1:
               - Mikko Tamura
             organization: MapBeks
         duration: "00:20"
-  - time: 02:40 UTC
+  - time: 02:50 UTC
     session:
       - location: Lightning Talk
         title: "The State of OSM Data in Indonesia: Then, Now, and Future "
@@ -32,7 +32,7 @@ Day1:
               - Adityo Dwijananto
             organization: HOT ID
         duration: "00:07"
-  - time: 02:47 UTC
+  - time: 02:58 UTC
     session:
       - location: Lightning Talk
         title: "Mapping the Map in Japan"
@@ -41,7 +41,7 @@ Day1:
               - Kuniharu Higano
             organization: YouthMappersAGU
         duration: "00:07"
-  - time: 02:53 UTC
+  - time: 03:06 UTC
     session:
       - location: Lightning Talk
         title: "Virtually training and engaging mappers in Nepal"
@@ -50,7 +50,7 @@ Day1:
               - Angela Tamrakar 
             organization: Youth Innovation Lab - OSM Adda
         duration: "00:07"
-  - time: 03:00 UTC
+  - time: 03:13 UTC
     session:
       - location: Dialogue
         title: "An homage to the projects of #map2020"
@@ -59,7 +59,7 @@ Day1:
               - Edoardo Neerhut
             organization: Mapillary
         duration: "00:20"
-  - time: 03:20 UTC
+  - time: 03:33 UTC
     session:
       - location: Dialogue
         title: "Observe - offline, cross-platform field editor for OSM"
@@ -68,12 +68,12 @@ Day1:
               - Sajjad Anwar 
             organization: Development Seed
         duration: "00:20"
-  - time: 03:40 UTC
+  - time: 03:53 UTC
     session:
-      - location: Video
-        title: Audacious Donor Pre-Recorded Videos
+      - location: Video Message
+        title: "Greetings from backers of HOT's Audacious Vision: ELMA Foundation and Rippleworks"  
         duration: "00:05"
-  - time: 03:45 UTC
+  - time: 04:00 UTC
     session:
       - location: Lightning Talk
         title: "HOT OSM and Indian Community"
@@ -81,7 +81,7 @@ Day1:
           - people: 
               - Ark Arjurn
         duration: "00:08"
-  - time: 03:53 UTC
+  - time: 04:07 UTC
     session:
       - location: Lightning Talk
         title: "Mapping to support COVID-19 response in Mongolia"
@@ -90,7 +90,7 @@ Day1:
               - Erdenetsogt Sumiyasuren
             organization: Public Lab Mongolia 
         duration: "00:08"
-  - time: 04:00 UTC
+  - time: 04:15 UTC
     session:
       - location: Failfest
         title: "Inspiring Youths to Map Nepal: Challenges, Successes, Lessons Learned and Way Forward"
@@ -99,16 +99,7 @@ Day1:
               - Saurav Gautam 
             organization: YouthMappers
         duration: "00:15"
-  - time: 04:15 UTC
-    session:
-      - location: Dialogue
-        title: "Overcoming barriers to sustainable OpenStreetMap communities"
-        presenter: 
-          - people:
-              - Geoffrey Kateregga
-            organization: Humanitarian OpenStreetMap Team 
-        duration: "00:20"
-  - time: 04:35 UTC
+  - time: 04:30 UTC
     session:
       - location: Closing Remarks/Keynote/Scavenger Hunt Winner Announcements 
         title: TBC
@@ -125,7 +116,7 @@ Day2:
             organization: HOT Board President
           - people:
               - Claire Melamed
-            organization: CEO of Global Partnership for Sustainable Developement Data
+            organization: CEO of Global Partnership for Sustainable Development Data
         duration: "00:20"
   - time: 10:20 UTC
     session:
@@ -139,7 +130,7 @@ Day2:
   - time: 10:40 UTC
     session:
       - location: Lightning Talk
-        title: "How we responded to Covid-19 Pandemic by Mapping  Uganda Border Towns with HOT Rapid Response Microgrant"
+        title: "How we responded to Covid-19 Pandemic by Mapping Uganda Border Towns with HOT Rapid Response Microgrant"
         presenter: 
           - people:
               - Samson Ngumenawe
@@ -154,13 +145,13 @@ Day2:
   - time: 10:48 UTC
     session:
       - location: Lightning Talk
-        title: "Mapping Emergency Health Services in Senegal "
+        title: "Mapping Emergency Health Services in Senegal"
         presenter: 
           - people:
               - Mark Herringer
             organization: Open Healthsite Consulting LTD
       - location: Lightning Talk
-        title: "Volunteer Activation and Creating Documentation "
+        title: "Volunteer Activation and Creating Documentation"
         presenter:
           - people:
               - "Oguzhan Er-Yer Cizenler"
@@ -183,20 +174,20 @@ Day2:
   - time: 11:02 UTC
     session:
       - location: Lightning Talk
-        title: "Community use of map data in Nord-Kivu"
-        presenter: 
-          - people:
-              - Bienvenu Muluba
-              - Jackson Mumbere Kombi
-            organization: HOT/OSM DRC
-      - location: Lightning Talk
         title: "MapUganda a Drone tech OSM Community in Uganda"
         presenter:
           - people:
               - Deo Kiggudde
             organization: Humanitarian OpenStreetMap Team
         duration: "00:08" 
-
+      - location: Lightning Talk
+        title: "[French Session] Community use of map data in Nord-Kivu"
+        presenter: 
+          - people:
+              - Bienvenu Muluba
+              - Jackson Mumbere Kombi
+            organization: HOT/OSM DRC
+        duration: "00:08"
   - time: 11:10 UTC
     session:
       - location: Dialogue
@@ -208,7 +199,7 @@ Day2:
             organization: Kontur
         duration: "00:20"
       - location: Dialogue
-        title: "Digital Elevation model integration in open street map model"
+        title: "[French Session] Digital Elevation model integration in open street map model"
         presenter: 
           - people:
               - Olivier Ngoie Inabanza
@@ -224,20 +215,20 @@ Day2:
               - Diego Gonzalez Ferreiro
             organization: United Nations Global Service Center (UNGSC)
         duration: "00:20"
+      - location: Dialogue
+        title: "Overcoming barriers to sustainable OpenStreetMap communities"
+        presenter: 
+          - people:
+              - Geoffrey Kateregga
+            organization: Humanitarian OpenStreetMap Team 
+        duration: "00:20"
   - time: 11:50 UTC
     session:
-      - location: Video
-        title: Audacious Donor Pre-Recorded Videos
+      - location: Video Message
+        title: "Greetings from backers of HOT's Audacious Vision: ELMA Foundation and Rippleworks"
         duration: "00:05"        
   - time: 11:55 UTC
     session:
-      - location: Lightning Talk
-        title: "Building an Exclusive Mapping Community in South Sudan"
-        presenter: 
-          - people:
-              - Micheal Yani
-            organization: OpenStreetMap Community South Sudan             
-        duration: "00:08"
       - location: (Extended) Dialogue
         title: "Beyond the mapathon: Considering the Sustainability of community engagement and data production in humanitarian mapping activities"
         presenter: 
@@ -245,6 +236,13 @@ Day2:
               - Hannah Ker 
             organization: MapAction/UCL/HeiGIT          
         duration: "00:25"
+      - location: Lightning Talk
+        title: "Building a Mapping Community in South Sudan"
+        presenter: 
+          - people:
+              - Micheal Yani
+            organization: OpenStreetMap Community South Sudan             
+        duration: "00:08"
   - time: 12:03 UTC
     session:
       - location: Lightning Talk
@@ -272,15 +270,15 @@ Day2:
               - Federica Gaspari
             organization: Politecnico di Milano
         duration: "00:07"
-  - time: 12:25 UTC
-    session:
-      - location: Failfest
-        title: "Sierra Leone: Reviving and Expanding the OSM Community in Sierra Leone & Supports to keep communities alive"
+      - location: Lightning Talk
+        title: "International Mapping Partnership Rome-Hargeisa 2020 Geoportal of Hargeisa"
         presenter:
           - people:
-              - Tommy Charles
-            organization: OpenStreetMap
-        duration: "00:15"
+              - Valerio De Luca
+            organization: Map For Future
+        duration: "00:07"
+  - time: 12:25 UTC
+    session:
       - location: Failfest
         title: "Adjusting our refugee site mapping standardization strategy in compliance with good OSM practices: the experience of one tag proposal"
         presenter:
@@ -288,10 +286,21 @@ Day2:
               - Manon Viou
             organization: CartONG
         duration: "00:15"
+      - location: Failfest
+        title: "Sierra Leone: Reviving and Expanding the OSM Community in Sierra Leone & Supports to keep communities alive"
+        presenter:
+          - people:
+              - Tommy Charles
+            organization: OpenStreetMap
+        duration: "00:15"
   - time: 12:40 UTC
     session:
       - location: Closing Remarks/Keynote/Scavenger Hunt Winner Announcements 
-        title: TBC
+        title: 
+        presenter:
+          - people:
+              - Angela Oduor Lungati
+            organization: Executive Director at Ushahidi
         duration: "00:20"
 
 Day3:
@@ -307,7 +316,7 @@ Day3:
   - time: 15:20 UTC
     session:
       - location: Dialogue
-        title: "SIGenBici: a collaborative mapping project of cycling infrastructure in Medellin, Colombia "
+        title: "SIGenBici: a collaborative mapping project of cycling infrastructure in Medellin, Colombia"
         presenter:
           - people:
               - Natalia da Silveria Arruda
@@ -343,7 +352,7 @@ Day3:
   - time: 16:05 UTC
     session:
       - location: Dialogue
-        title: "Map With AI: Past, Present, and Future "
+        title: "Map With AI: Past, Present, and Future"
         presenter:
           - people:
               - Jeff Underwood
@@ -359,11 +368,11 @@ Day3:
   - time: 16:25 UTC
     session:
       - location: Dialogue
-        title: "MapImpact: University students developing mapping projects in times of pandemic"
+        title: "The Future of Mapping Land Rights and Resources "
         presenter:
           - people:
-              - Regina Campos Ccarhuarupay
-            organization: GAL Center
+              - Katie Pickett
+            organization: Cadasta Foundation
         duration: "00:20"
       - location: Failfest
         title: "OSM Mapping as a Critical Data Literacy Instruction Tool"
@@ -374,8 +383,8 @@ Day3:
         duration: "00:20"
   - time: 16:45 UTC
     session:
-      - location: Video
-        title: Audacious Donor Pre-Recorded Videos
+      - location: Video Message
+        title: "Greetings from backers of HOT's Audacious Vision: ELMA Foundation and Rippleworks"
         duration: "00:05"
   - time: 16:50 UTC
     session:
@@ -385,7 +394,7 @@ Day3:
           - people:
               - Leon
             organization: Practical Action
-        duration: "00:07" 
+        duration: "00:07"
       - location: Lightning Talk
         title: "OSM Contribution 101: Contributing to OpenStreetMap beyond mapping"
         presenter:
@@ -403,11 +412,11 @@ Day3:
             organization: Maxar Technologies
         duration: "00:07" 
       - location: Lightning Talk
-        title: "International Mapping Partnership Rome-Hargeisa 2020 Geoportal of Hargeisa"
+        title: "Getting the best of COVID-19 for Data"
         presenter:
           - people:
-              - Valerio De Luca 
-            organization: Map For Future
+              - Kazeem Owolabi
+            organization: Humanitarian Mappers
         duration: "00:07" 
   - time: 17:05 UTC
     session:
@@ -419,11 +428,11 @@ Day3:
             organization: U.S. Department of State (MapGive initiative)
         duration: "00:07" 
       - location: Lightning Talk
-        title: "Getting the best of COVID-19 for Data"
+        title: "Mapping the Trash Value Chain"
         presenter:
           - people:
-              - Kazeem Owolabi
-            organization: Humanitarian Mappers
+              - Chad Blevins
+            organization: Critigen-Trashsites
         duration: "00:07" 
   - time: 17:12 UTC
     session:
@@ -433,33 +442,33 @@ Day3:
           - people:
               - Jian He
         duration: "00:07" 
-      - location: Lightning Talk
-        title: "Mapping the Trash Value Chain"
-        presenter:
-          - people:
-              - Chad Blevins
-            organization: Critigen-Trashsites
-        duration: "00:07" 
   - time: 17:20 UTC
     session:
       - location: Dialogue
-        title: "An Incomplete History of HOT, Part 2 "
+        title: "An Incomplete History of HOT, Part 2"
         presenter:
           - people:
               - Mikel Maron
             organization: Humanitarian OpenStreetMap Team
         duration: "00:20"
       - location: Dialogue
-        title: "The Future of Mapping Land Rights and Resources "
+        title: "MapImpact: University students developing mapping projects in times of pandemic"
         presenter:
           - people:
-              - Katie Pickett
-            organization: Cadasta Foundation
+              - Regina Campos Ccarhuarupay
+            organization: GAL Center
         duration: "00:20"
   - time: 17:40 UTC
     session:
       - location: Closing Remarks/Keynote/Scavenger Hunt Winner Announcements 
-        title: TBC
+        title: 
+        presenter: 
+          - people: 
+              - George Roter
+            organization: Expert-in-Residence at Rippleworks
+          - people: 
+              - Tyler Radford
+            organization: Executive Director at Humanitarian OpenStreetMap Team
         duration: "00:20"
 
 ---

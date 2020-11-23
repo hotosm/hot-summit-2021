@@ -1,6 +1,6 @@
-{% capture speakerid %}{{ speaker.id | remove: "/speakers/" }}{% endcapture %}
+{% capture speakerid %}{{ speaker.id | remove: "/keynote-speakers/" }}{% endcapture %}
 
-<div class="module link-through project-module" id="#{{ speakerid }}">
+<div class="module link-through project-module" name="{{ speakerid }}" id="{{ speakerid }}">
 
   <div class="module-details">
 
@@ -8,9 +8,9 @@
 
       <h3>{{ speaker.title }}</h3>
 
-      <p class="project-involvement speaker-organization">
+      <span class="project-involvement speaker-organization">
         {{ speaker.organization }}
-      </p>
+      </span>
 
       <p class="project-countries speaker-country">
         {% if speaker.country %}
@@ -19,6 +19,9 @@
           <span class="project-country">Global</span>
         {% endif %}
         </p>
+      <p>
+      	{{ speaker.content }}
+      </p>
     </div>
 
   </div>

@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="page container">
+
+  <header class="page-header">
+    <h1>{{ page.title }}</h1>
+    <div class="hr-h"></div>
+  </header>
+
+  <div class="page-layout-body">
+    <div class="speaker-content">
+      <div class="article">
+        {% if page['Intro Text'] %}
+          <p class="page-content article">{{ page['Intro Text' ]}}</p>
+        {% endif %}
+        
+        {{ content }}
+      </div>
+
+      <div class="keynote-index-all">
+
+      {% for speaker in site.keynote-speakers %}
+          {% include speaker-bar.html %}
+      {% endfor %}
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
