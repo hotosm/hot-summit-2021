@@ -356,6 +356,7 @@ Day3:
         presenter:
           - people:
               - Jeff Underwood
+              - Yunzhi Lin
             organization: Facebook
         duration: "00:20"
       - location: Dialogue
