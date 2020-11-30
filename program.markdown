@@ -307,7 +307,7 @@ Day2:
   - time: 12:40 UTC
     session:
       - location: Closing Remarks/Keynote 
-        title: 
+        title: Keynote Speaker
         presenter:
           - people:
               - Angela Oduor Lungati
@@ -350,14 +350,14 @@ Day3:
               - Marc van den Homberg
               - Antoni Ros Martinez
               - Fiona Huang
-            organization: Netherlands Red Cross 510, REACH Impact Initiatives, Humanitarian OpenStreetMap Team, & WFP
+            organization: Netherlands Red Cross 510, REACH Impact Initiatives, Humanitarian OpenStreetMap Team & WFP
         duration: "00:20"
       - location: Debate
         title: "Geospatial Ethics, Philanthropy, Politics of Representation"
         presenter:
           - people:
               - Rupert Allan
-              - Deo Kiggude
+              - Deo Kiggudde
               - Arnalie Vicario
               - Erica Hagen
             organization: Missing Maps & Humanitarian OpenStreetMap Team 
@@ -406,7 +406,7 @@ Day3:
         title: "Mapping against wildfires in Bolivia [HOT 2020 Micrograntee]"
         presenter: 
           - people:
-              - Leon
+              - Leon Lizon
             organization: Practical Action
         duration: "00:07"
       - location: Lightning Talk

@@ -1,5 +1,5 @@
 ---
-title: Ark Arjun
+title: Ark Arjurn
 talk: "HOT OSM and Indian Community"
-permalink: /speakers/#ark-arjun
+permalink: /speakers/#ark-arjurn
 ---
