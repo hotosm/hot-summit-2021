@@ -12,8 +12,12 @@ Day1:
   - time: 02:00 UTC
     session:
       - location: Opening Remarks/Keynote
-        title: "TBC"
+        title: "The Value of Partnerships and Inclusive Tech"
         duration: "00:30"
+        presenter:
+          - people: 
+              - Roshni Venkatesh
+            organization: Accenture
   - time: 02:30 UTC
     session:
       - location: Dialogue
@@ -44,11 +48,11 @@ Day1:
   - time: 03:06 UTC
     session:
       - location: Lightning Talk
-        title: "Virtually training and engaging mappers in Nepal"
+        title: "OSM Adda: Virtually training and engaging mappers in Nepal"
         presenter:
           - people:
               - Angela Tamrakar 
-            organization: Youth Innovation Lab - OSM Adda
+            organization: Youth Innovation Lab
         duration: "00:07"
   - time: 03:13 UTC
     session:
@@ -101,18 +105,18 @@ Day1:
         duration: "00:15"
   - time: 04:30 UTC
     session:
-      - location: Closing Remarks/Keynote/Scavenger Hunt Winner Announcements 
+      - location: Closing Remarks/Keynote 
         title: TBC
         duration: "00:25"
 
 Day2:
   - time: 10:00 UTC
     session:
-      - location: Opening Remarks/Keynote Speaker
+      - location: Opening Remarks/Keynote
         title: "Keynote Speaker"
         presenter:
           - people: 
-              - Miriam Gonzales
+              - Miriam Gonzalez
             organization: HOT Board President
           - people:
               - Claire Melamed
@@ -149,7 +153,7 @@ Day2:
         presenter: 
           - people:
               - Mark Herringer
-            organization: Open Healthsite Consulting LTD
+            organization: The Global Healthsites Mapping Project
       - location: Lightning Talk
         title: "Volunteer Activation and Creating Documentation"
         presenter:
@@ -220,7 +224,7 @@ Day2:
         presenter: 
           - people:
               - Geoffrey Kateregga
-            organization: Humanitarian OpenStreetMap Team 
+            organization: Humanitarian OpenStreetMap Team Community Working Group
         duration: "00:20"
   - time: 11:50 UTC
     session:
@@ -234,7 +238,13 @@ Day2:
         presenter: 
           - people: 
               - Hannah Ker 
-            organization: MapAction/UCL/HeiGIT          
+            organization: MapAction
+          - people:
+              - Geoffrey Kateregga
+            organization: Humanitarian OpenStreetMap Team
+          - people: 
+              - Benjamin Herfort
+            organization: HeiGIT
         duration: "00:25"
       - location: Lightning Talk
         title: "Building a Mapping Community in South Sudan"
@@ -275,6 +285,7 @@ Day2:
         presenter:
           - people:
               - Valerio De Luca
+              - Giuseppe Maria Battisti
             organization: Map For Future
         duration: "00:07"
   - time: 12:25 UTC
@@ -295,7 +306,7 @@ Day2:
         duration: "00:15"
   - time: 12:40 UTC
     session:
-      - location: Closing Remarks/Keynote/Scavenger Hunt Winner Announcements 
+      - location: Closing Remarks/Keynote 
         title: 
         presenter:
           - people:
@@ -306,7 +317,7 @@ Day2:
 Day3:
   - time: 15:00 UTC
     session:
-      - location: Opening Remarks/Keynote Speaker
+      - location: Opening Remarks/Keynote
         title: "Keynote Speaker"
         presenter:
           - people: 
@@ -316,18 +327,18 @@ Day3:
   - time: 15:20 UTC
     session:
       - location: Dialogue
+        title: "OSM and ArcGIS"
+        presenter:
+          - people:
+              - Olivier Cottray
+            organization: ESRI Director of Humanitarian Solutions
+        duration: "00:20"
+      - location: Dialogue
         title: "SIGenBici: a collaborative mapping project of cycling infrastructure in Medellin, Colombia"
         presenter:
           - people:
               - Natalia da Silveria Arruda
             organization: Universidad de Antioquia
-        duration: "00:20"
-      - location: Dialogue
-        title: "Beyond the Mapathon - The Future of Volunteering at HOT"
-        presenter:
-          - people:
-              - Anna Teach
-            organization: Humanitarian OpenStreetMap Team
         duration: "00:20"
   - time: 15:40 UTC
     session:
@@ -338,7 +349,8 @@ Day3:
               - Cristiano Giovando
               - Marc van den Homberg
               - Antoni Ros Martinez
-            organization: Netherlands Red Cross 510, REACH Impact Initiatives, & Humanitarian OpenStreetMap Team
+              - Fiona Huang
+            organization: Netherlands Red Cross 510, REACH Impact Initiatives, Humanitarian OpenStreetMap Team, & WFP
         duration: "00:20"
       - location: Debate
         title: "Geospatial Ethics, Philanthropy, Politics of Representation"
@@ -347,6 +359,7 @@ Day3:
               - Rupert Allan
               - Deo Kiggude
               - Arnalie Vicario
+              - Erica Hagen
             organization: Missing Maps & Humanitarian OpenStreetMap Team 
         duration: "00:20"
   - time: 16:05 UTC
@@ -382,7 +395,7 @@ Day3:
               - Bethany McGowan
             organization: Purdue University
         duration: "00:20"
-  - time: 16:45 UTC
+  - time: 16:44 UTC
     session:
       - location: Video Message
         title: "Greetings from backers of HOT's Audacious Vision: ELMA Foundation and Rippleworks"
@@ -425,7 +438,7 @@ Day3:
         title: "Cities Covid Mitigation Mapping"
         presenter: 
           - people:
-              - Erika Nunez
+              - Laura Cline
             organization: U.S. Department of State (MapGive initiative)
         duration: "00:07" 
       - location: Lightning Talk
@@ -442,6 +455,13 @@ Day3:
         presenter: 
           - people:
               - Jian He
+        duration: "00:07"
+      - location: Lightning Talk
+        title: "Beyond the Mapathon - The Future of Volunteering at HOT"
+        presenter: 
+          - people:
+              - Anna Teach
+            organization: Humanitarian OpenStreetMap Team
         duration: "00:07" 
   - time: 17:20 UTC
     session:
@@ -450,19 +470,24 @@ Day3:
         presenter:
           - people:
               - Mikel Maron
-            organization: Humanitarian OpenStreetMap Team
+              - Kate Chapman
         duration: "00:20"
       - location: Dialogue
         title: "MapImpact: University students developing mapping projects in times of pandemic"
         presenter:
           - people:
               - Regina Campos Ccarhuarupay
+              - Marian Manga
+              - Ana Lucero Cjuiro
+              - Rossy Condori
+              - Macarena Suca
+              - Cristian Morveli 
             organization: GAL Center
         duration: "00:20"
   - time: 17:40 UTC
     session:
-      - location: Closing Remarks/Keynote/Scavenger Hunt Winner Announcements 
-        title: 
+      - location: Closing Remarks/Keynote 
+        title: Keynote Speaker
         presenter: 
           - people: 
               - George Roter
