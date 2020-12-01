@@ -4996,3 +4996,26 @@ sup {
     &:before {}
   }
 }
+
+////////////////////////////////////////////////
+/////////////// App Store Links ////////////////
+////////////////////////////////////////////////
+
+.app-play-store {
+  width: 260px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 0 5px 5px 0;
+
+  .apple {
+    grid-column: 1 / 2;
+    margin: 10px 0;
+    img { height: 40px; }
+
+  }
+  .google {
+    grid-column: 2 / -1;
+    margin: 10px 0;
+    img { height: 40px; }
+  }
+}
