@@ -43,6 +43,7 @@ Day1:
         presenter:
           - people:
               - Kuniharu Higano
+              - Ayako Takahashi
             organization: YouthMappersAGU
         duration: "00:07"
   - time: 03:06 UTC
@@ -105,8 +106,8 @@ Day1:
         duration: "00:15"
   - time: 04:30 UTC
     session:
-      - location: Closing Remarks/Keynote 
-        title: TBC
+      - location: Closing Remarks
+        title: Tyler Radford, Executive Director at Humanitarian OpenStreetMap Team
         duration: "00:25"
 
 Day2:
@@ -201,13 +202,6 @@ Day2:
               - Darafei Praliaskouski
               - Tatsiana Karvat
             organization: Kontur
-        duration: "00:20"
-      - location: Dialogue
-        title: "[French Session] Digital Elevation model integration in open street map model"
-        presenter: 
-          - people:
-              - Olivier Ngoie Inabanza
-            organization: CarTeS 
         duration: "00:20"
   - time: 11:30 UTC
     session:
@@ -312,6 +306,9 @@ Day2:
           - people:
               - Angela Oduor Lungati
             organization: Executive Director at Ushahidi
+          - people:
+              - Tyler Radford
+            organization: Humanitarian OpenStreetMap Team
         duration: "00:20"
 
 Day3:
@@ -358,7 +355,6 @@ Day3:
           - people:
               - Rupert Allan
               - Deo Kiggudde
-              - Arnalie Vicario
               - Erica Hagen
             organization: Missing Maps & Humanitarian OpenStreetMap Team 
         duration: "00:20"
@@ -461,6 +457,7 @@ Day3:
         presenter: 
           - people:
               - Anna Teach
+              - Edgar Lemus Pablo
             organization: Humanitarian OpenStreetMap Team
         duration: "00:07" 
   - time: 17:20 UTC
