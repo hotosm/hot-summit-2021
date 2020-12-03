@@ -328,7 +328,8 @@ Day3:
         presenter:
           - people:
               - Olivier Cottray
-            organization: ESRI Director of Humanitarian Solutions
+              - Ryan Lanclos
+            organization: ESRI
         duration: "00:20"
       - location: Dialogue
         title: "SIGenBici: a collaborative mapping project of cycling infrastructure in Medellin, Colombia"
@@ -346,7 +347,7 @@ Day3:
               - Cristiano Giovando
               - Marc van den Homberg
               - Antoni Ros Martinez
-              - Fiona Huang
+              - Kyriacos Koupparis
             organization: Netherlands Red Cross 510, REACH Impact Initiatives, Humanitarian OpenStreetMap Team & WFP
         duration: "00:20"
       - location: Debate
