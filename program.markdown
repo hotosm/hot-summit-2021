@@ -499,3 +499,5 @@ Day3:
 
 On 4 December 2020, the humanitarian mapping community will convene for a global virtual meeting. We hope much of the humanitarian mapping/OpenStreetMap community will come together to showcase projects, discuss and share ideas, and learn how mapping projects can have impact on the lives beyond the people mapping and create better disaster and development outcomes.
 
+To access the live stream, please go to <a href="https://www.ur2020.org/agenda">the UR2020 Agenda</a> and click the link to the broadcast for the session you wish to attend. 
+
