@@ -2,7 +2,7 @@
 title: Code of Conduct
 layout: page
 permalink: /code-of-conduct/
-Intro Text: The Humanitarian OpenStreetMap Summit 2020 is a conference designed for everyone using and interested in OpenStreetMap and humanitarian mapping.
+Intro Text: The Humanitarian OpenStreetMap Summit 2021 is a conference designed for everyone using and interested in OpenStreetMap and humanitarian mapping.
 Page Contact:
   Label: Contact Summit Working Group
   Text: Have a question about the code of conduct?
@@ -15,7 +15,7 @@ To achieve this we require that everyone participating in the Summit and related
 
 To ensure that the Summit and related events are welcoming and safe experiences for everyone who attends, including in this virtual environment, we have adopted the following code of conduct:
         
-> The 2020 Summit is dedicated to providing a harassment-free virtual conference experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or background. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference session. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
+> The 2021 Summit is dedicated to providing a harassment-free virtual conference experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or background. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference session. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
 
 
 ### Our anti-harassment policy is as follows: 
