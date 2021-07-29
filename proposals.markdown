@@ -2,22 +2,42 @@
 title: Call for Proposals
 layout: page
 permalink: /call-for-proposals/
-Intro Text: Call for proposals has closed. Stay tuned for more updates on the Summit schedule!
+Intro Text: The 2021 HOT Summit Call for Proposals is now open! Submit your ideas for panels and talks today! Deadline is 10 August.
 ---
-![2020 Banner](/images/HOT_10_YR_summit_banner.png)
+![2021 Banner](https://www.hotosm.org/uploads/Copy%20of%20Compressed%20Summit%202021_Banner.png)
 
-The 6th HOT Summit has gone virtual! We will be holding a one-day event across several time zones on Friday, December 4th in conjunction with the <a href="https://understandrisk.org/">Understanding Risk</a> conference.
 
-We will be celebrating our 10th anniversary of using OpenStreetMap to help our partners save and improve lives. This year’s Summit will focus on the theme of HOT’s past, present, and future. The success of the past ten years has only been possible through the collaboration of this dedicated community around the world. In that spirit, we’re planning for a Summit event that is both collaborative and engaging. We want to hear about the challenges, successes, failures, and new ideas in formats that allow everyone to contribute to the conversation in this new virtual format. To do so, we’re adding new session formats that we have enjoyed in other conferences, as well as keeping a few classics.
+The Seventh Annual Humanitarian OpenStreetMap Team Summit 2021 will be held online for the second year due to the ongoing Covid-19 pandemic. This year’s theme is: **The Evolution of Local Humanitarian Open Mapping Ecosystems: Understanding Community, Collaboration, and Contribution.**
 
-**Failfest:** Your chance to present the usually less discussed failures: potentials and pitfalls when limitations are pushed and lessons learned in leadership, innovation, and project management, as well as risk-taking. **(5-15 minutes)**
+We’re looking for new and engaging online presentations, dialogues, and lightning talks. We encourage you to consider incorporating technology such as Menti (mentimeter.com), interactive boards (e.g., Jamboard, Miro), audience polling tools, etc., to maximize audience participation and interaction given our new virtual format.
 
-**Ignite/lightning talk:** Quick presentations about your inspiring topic, project or tool, the related challenges addressed, expected impact, and future steps. We’re really excited to hear talks that not only look at current projects and tools, but talks that look at past impacts as well as visions for the future. **(5 minutes)**
+Note that where possible, and especially for Failfests and Lightning talks, we will ask speakers to submit pre-recorded presentations to show at the Summit. If applicable, live Q&A will follow the presentation.
 
-**Debate:** As a collaborative community, we have a lot of ideas and opinions. Debates are a great opportunity for hashing out these ideas IRL. After the success of last year’s Summit debate on Mapathons, we welcome ideas for other debates. Propose an idea for a debate topic that you think will spark the community into discussion and we’ll help you find a panel of debaters. **(45 minutes)**
+Please review important dates and proposal ideas below, then submit your proposal by the **DEADLINE: AUGUST 10, 2021**.
 
-**Dialogue:** An interactive presentation with discussion questions for the audience **(15-20 min)**
+Please complete one form per proposal. You may submit multiple unique proposals, but understand that, due to the volume of speakers, we may only accept one submission by the same presenter(s).
 
-We look forward to seeing each of you (virtually) on December 4th!
+If you have any questions, please email us at [summit@hotosm.org](mailto:summit@hotosm.org).
+
+**Important Dates** Call for participation announcement: July 12, 2021 Deadline to submit your proposal: August 10, 2021 Notification of accepted proposals: September 7, 2021 Summit date: November 22, 2021 Contributions Types and Ideas
+
+Here are the session formats that are available:
+
+- Dialogue (15-20 min. interactive presentation with discussion questions for the audience)
+- Ignite/Lightning Talk (5 min. presentation of the project, discussion of the produced map/visualization, etc.)
+- Failfest (5-15 min. discussion of a failure and lessons learned)
+- Debate (1-1.5 hrs. Suggest a topic to debate; Option to propose yourself as representing a specific perspective)
+
+Here are some topics we came up with, but most of all, we want to hear your innovative ideas:
+
+- Lowering barriers of entry to open mapping
+- Women and open mapping
+- Facilitating and enhancing cross-regional collaboration
+- Diversity and inclusion
+- Challenges and opportunities during the pandemic
+- New technologies or project updates
+
+[SUBMIT YOUR PROPOSAL HERE](https://docs.google.com/forms/d/e/1FAIpQLSd2jIpEMMNmjpWqsW9nedgcPlNK4_0bKjMKpv6kXyFAsMZtHw/viewform)
+
 
 ---
