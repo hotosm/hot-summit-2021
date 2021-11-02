@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: HOT Summit 2020
+title: HOT Summit 2021
 email: summit@hotosm.org
 description: >- # this means to ignore newlines until "baseurl:"
-  HOT Summit 2020 | Jul 1 - 2, 2020 | Cape Town, South Africa
+  HOT Summit 2021 | 22 November 2021
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hotosm
