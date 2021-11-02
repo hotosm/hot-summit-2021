@@ -2,7 +2,7 @@
 title: Code of Conduct
 layout: page
 permalink: /code-of-conduct/
-Intro Text: The Humanitarian OpenStreetMap Summit 2021 is a conference designed for everyone using and interested in OpenStreetMap and humanitarian mapping.
+Intro Text: The HOT Summit 2021 is a conference designed for everyone using and interested in OpenStreetMap and humanitarian mapping.
 Page Contact:
   Label: Contact Summit Working Group
   Text: Have a question about the code of conduct?
