@@ -9,7 +9,7 @@ Page Contact:
   Contact Email: summit@hotosm.org
 ---
 
-Our goal is to bring together the diverse users that make up the humanitarian OpenStreetMap community and to make everyone feel welcome to participate, speak up, ask questions, and engage in the event, sessions, and conversations. The growing diversity of the OpenStreetMap community includes hobbyists and professionals, people of different ethnic backgrounds and gender identities, rich and poor, etc. This is the OpenStreetMap community and are all welcome and encouraged to attend the Summit.
+Our goal is to bring together the diverse users that make up the humanitarian open mapping community and to make everyone feel welcome to participate, speak up, ask questions, and engage in the event, sessions, and conversations. The growing diversity of the OpenStreetMap community includes hobbyists and professionals, people of different ethnic backgrounds and gender identities, rich and poor, etc. This is the OpenStreetMap community and are all welcome and encouraged to attend the Summit.
 
 To achieve this we require that everyone participating in the Summit and related events treat everyone with respect and kindness and acknowledge that people from different backgrounds have different understandings of what is offensive, derogatory, and unwelcoming, and commit to bridging this through positive communication.
 

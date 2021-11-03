@@ -9,9 +9,7 @@ Page Contact:
   Link: mailto:rachel.vannice@hotosm.org
 ---
 
-Sponsorship of the Humanitarian OpenStreetMap Summit 2021 demonstrates your organization’s commitment to reducing the impact of crises and contributing to the Sustainable Development Goals through open map data.
-
-Sponsorship has a direct impact on the ability of mappers from least developed countries to attend, by enabling the Humanitarian OpenStreetMap Team to provide travel and admission scholarships.
+Sponsorship of the HOT Summit 2021 demonstrates your organization’s commitment to reducing the impact of crises and contributing to the Sustainable Development Goals through open map data.
 
 We are open to creative options to support the Summit virtually in 2021 or for next year's in-person event. <a href="mailto:rachel.vannice@hotosm.org">Please contact us</a> if interested. 
 
